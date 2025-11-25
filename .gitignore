@@ -5,8 +5,16 @@ venv/
 env/
 .env
 
-# model & data (do NOT push large models/data)
-out/
+# Ignore only the large model file
+out/model.safetensors
+
+# Common ignores
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
 *.pt
 *.bin
 # data/*.jsonl
