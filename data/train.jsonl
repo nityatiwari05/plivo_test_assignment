@@ -1,0 +1,5 @@
+{"id":"utt_0001","text":"my credit card number is four two four two 4242 4242 4242 and email is ramesh sharma at gmail dot com","entities":[{"start":3,"end":19,"label":"CREDIT_CARD"},{"start":63,"end":77,"label":"PERSON_NAME"},{"start":81,"end":105,"label":"EMAIL"}]}
+{"id":"utt_0002","text":"call me at double one two three four five six seven eight","entities":[{"start":10,"end":37,"label":"PHONE"}]}
+{"id":"utt_0003","text":"my birthday is on January first two thousand","entities":[{"start":18,"end":42,"label":"DATE"}]}
+{"id":"utt_0004","text":"I live in New York City","entities":[{"start":12,"end":25,"label":"CITY"}]}
+{"id":"utt_0005","text":"my email is john doe at example dot com","entities":[{"start":15,"end":36,"label":"EMAIL"},{"start":0,"end":8,"label":"PERSON_NAME"}]}

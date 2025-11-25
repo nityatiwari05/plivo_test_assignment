@@ -9,8 +9,8 @@ env/
 out/
 *.pt
 *.bin
-data/*.jsonl
-data/*.json
+# data/*.jsonl
+# data/*.json
 tokenizer.json
 vocab.txt
 

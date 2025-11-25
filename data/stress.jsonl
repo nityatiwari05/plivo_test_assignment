@@ -1,0 +1,5 @@
+{"id":"stress_001","text":"my phone number is double three double three one two three four and my email is john doe at example dot com","entities":[{"start":20,"end":45,"label":"PHONE"},{"start":56,"end":80,"label":"EMAIL"}]}
+{"id":"stress_002","text":"the credit card number is four five six seven eight nine zero one two three four five six and my name is jane smith","entities":[{"start":30,"end":66,"label":"CREDIT_CARD"},{"start":70,"end":81,"label":"PERSON_NAME"}]}
+{"id":"stress_003","text":"i was born on the first of january two thousand and five","entities":[{"start":21,"end":42,"label":"DATE"}]}
+{"id":"stress_004","text":"i live in new york city and my email is jane.doe at gmail dot com","entities":[{"start":12,"end":25,"label":"CITY"},{"start":43,"end":66,"label":"EMAIL"}]}
+{"id":"stress_005","text":"my credit card is one two three four five six seven eight nine zero","entities":[{"start":20,"end":54,"label":"CREDIT_CARD"}]}
