@@ -7,7 +7,7 @@ This project aims to build a machine learning model for token-level Named Entity
 The project is organized as follows:
 
 ```
-pii_ner_assignment
+pii_ner
 ├── src
 │   ├── dataset.py        # Handles loading and preprocessing of the dataset
 │   ├── labels.py         # Defines BIO labeling scheme and PII mappings
